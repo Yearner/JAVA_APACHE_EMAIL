@@ -1,2 +1,0 @@
-只需  email.jar,mail.jar
-其他是 文档和源码
