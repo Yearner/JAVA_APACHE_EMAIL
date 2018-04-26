@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<senders>
+	<sender id="security">
+		<username>security@suhigh.com</username>
+		<nickname>SHUHIGH安全团队</nickname>
+		<password>SSpassword123</password>
+		<email>security@suhigh.com</email>
+		<host>smtp.exmail.qq.com</host>
+		<port>465</port>
+	</sender>
+</senders>

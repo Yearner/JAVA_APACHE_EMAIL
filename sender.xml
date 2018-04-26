@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<senders>
+	<sender id="security">
+		<username>secuxxx@sxx.com</username>
+		<nickname>xxx安全团队</nickname>
+		<password>123456</password>
+		<email>secuxxx@sxx.com</email>
+		<host>smtp.exmail.qq.com</host>
+		<port>465</port>
+	</sender>
+</senders>
