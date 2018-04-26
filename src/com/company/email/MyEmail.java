@@ -45,7 +45,7 @@ public class MyEmail {
 	public static void main(String[] args) {
 		// /*分开调用*/
 		// //用户内置html代码
-		String html = getHtml("845******", "杭州数焓科技", "3FE5CF");
+		String html = getHtml("845******", "公司名", "3FE5CF");
 		sendEmail("845******@qq.com", "kit", "标题", html, Sender.SECURITY);
 		// // Map<String, String> params = new HashMap<String, String>();
 		// // //用url请求html代码
@@ -54,7 +54,7 @@ public class MyEmail {
 		// Sender.SECURITY);
 		// // //验证码邮件测试
 		// // System.out.println(MyEmail.sendCaptchaEmail("845******@qq.com",
-		// "kid", "标题0", "杭州数焓科技", "F45D4S", Sender.SECURITY));
+		// "kid", "标题0", "公司名", "F45D4S", Sender.SECURITY));
 		// // //自定义html邮件测试
 		// // System.out.println(MyEmail.sendEmail("845******@qq.com", "标题1",
 		// "<div>你好!</div>", Sender.SECURITY));
